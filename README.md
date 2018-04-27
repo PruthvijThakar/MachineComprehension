@@ -20,9 +20,9 @@ kitchen (one with max. probability)
 The tasks in ``babi/tasks`` correspond to those from the original dataset as
 follows:
 
-|== ============================================= | ===================|
+
 |#   Task |                                        | Class name|
-| == ============================================= | =================== |
+| -------- |----------- |
 | ---                                              | ---            |
 | 1  Basic factoid QA with single supporting fact | WhereIsActor |
 | 2  Factoid QA with two supporting facts         | WhereIsObject |
@@ -44,7 +44,7 @@ follows:
 | 18  Reasoning about size                         | Size |
 | 19  Path finding                                 | PathFinding |
 | 20  Reasoning about agent's motivation           | Motivations |
-|== =============================================   | =================== |
+
 
 ## OVERVIEW
 
