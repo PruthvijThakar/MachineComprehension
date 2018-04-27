@@ -21,7 +21,7 @@ The tasks in ``babi/tasks`` correspond to those from the original dataset as
 follows:
 
 
-|#   Task |                                        | Class name|
+|   Task |                                        | Class name |
 | -------- |----------- |
 | ---                                              | ---            |
 | 1  Basic factoid QA with single supporting fact | WhereIsActor |
