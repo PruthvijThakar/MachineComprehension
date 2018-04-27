@@ -64,6 +64,8 @@ follows:
 ```
 $ wget -qO- http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz | tar xvz -C data
 ```
+
+### DOCKER IMAGE FOR WEB APP
 ```
 docker pull tushargl016/cognitivefinalproject
 docker run -p 80:8000 -d -ti tushargl016/cognitivefinalproject
