@@ -1,0 +1,1 @@
+{'Sandra': 6, 'travelled': 21, 'the': 19, '?': 2, 'back': 9, 'office': 18, 'bedroom': 11, 'moved': 17, 'Where': 7, 'journeyed': 15, 'Mary': 5, 'garden': 12, 'is': 14, 'went': 22, 'bathroom': 10, '.': 1, 'John': 4, 'to': 20, 'Daniel': 3, 'kitchen': 16, 'hallway': 13, 'and': 8}

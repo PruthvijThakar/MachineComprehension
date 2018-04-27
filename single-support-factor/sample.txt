@@ -1,0 +1,6 @@
+Story:
+John travelled to the hallway.
+Mary journeyed to the bathroom.
+
+Question:
+Where is John?

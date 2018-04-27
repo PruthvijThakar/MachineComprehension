@@ -1,0 +1,6 @@
+Story:
+John and Mary travelled to the hallway.
+Sandra and Mary journeyed to the bedroom.
+
+Question:
+Where is Mary?

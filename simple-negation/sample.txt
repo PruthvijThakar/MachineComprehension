@@ -1,0 +1,8 @@
+Story:
+
+John is in the hallway.
+Sandra is in the kitchen.
+
+Question:
+
+Is Sandra in the bedroom?

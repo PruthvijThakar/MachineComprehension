@@ -1,0 +1,1 @@
+{'After': 3, 'bedroom': 14, 'back': 12, 'the': 25, 'Sandra': 9, 'John': 7, 'hallway': 16, 'Following': 6, 'Afterwards': 4, 'to': 26, 'Daniel': 5, 'Then': 10, 'he': 17, 'is': 18, 'bathroom': 13, 'travelled': 27, 'she': 23, 'office': 22, '.': 1, 'garden': 15, 'Where': 11, 'went': 28, 'that': 24, 'kitchen': 20, 'moved': 21, 'journeyed': 19, '?': 2, 'Mary': 8}

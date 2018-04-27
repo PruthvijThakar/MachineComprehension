@@ -1,0 +1,8 @@
+Story:
+
+John journeyed to the hallway.
+After that he journeyed to the garden.
+
+Question:
+
+Where is John?

@@ -1,0 +1,1 @@
+{1: '.', 2: '?', 3: 'Daniel', 4: 'Is', 5: 'John', 6: 'Mary', 7: 'Sandra', 8: 'back', 9: 'bathroom', 10: 'bedroom', 11: 'garden', 12: 'hallway', 13: 'in', 14: 'is', 15: 'journeyed', 16: 'kitchen', 17: 'longer', 18: 'moved', 19: 'no', 20: 'not', 21: 'office', 22: 'the', 23: 'to', 24: 'travelled', 25: 'went', 26: 'yes'}

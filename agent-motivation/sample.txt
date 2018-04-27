@@ -1,0 +1,7 @@
+Story:
+
+Jason is thirsty.
+
+Question:
+Where will jason go?
+

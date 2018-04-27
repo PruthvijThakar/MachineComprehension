@@ -1,0 +1,1 @@
+{1: '.', 2: '?', 3: 'After', 4: 'Afterwards', 5: 'Daniel', 6: 'Following', 7: 'John', 8: 'Mary', 9: 'Sandra', 10: 'Then', 11: 'Where', 12: 'back', 13: 'bathroom', 14: 'bedroom', 15: 'garden', 16: 'hallway', 17: 'he', 18: 'is', 19: 'journeyed', 20: 'kitchen', 21: 'moved', 22: 'office', 23: 'she', 24: 'that', 25: 'the', 26: 'to', 27: 'travelled', 28: 'went'}

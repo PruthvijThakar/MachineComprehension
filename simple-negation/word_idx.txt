@@ -1,0 +1,1 @@
+{'went': 25, '?': 2, 'Is': 4, 'to': 23, 'in': 13, '.': 1, 'kitchen': 16, 'longer': 17, 'hallway': 12, 'garden': 11, 'Sandra': 7, 'bathroom': 9, 'the': 22, 'office': 21, 'John': 5, 'Mary': 6, 'no': 19, 'not': 20, 'back': 8, 'journeyed': 15, 'is': 14, 'bedroom': 10, 'Daniel': 3, 'travelled': 24, 'yes': 26, 'moved': 18}
