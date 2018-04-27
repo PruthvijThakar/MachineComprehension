@@ -62,7 +62,6 @@ follows:
 ```
 $ wget -qO- http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz | tar xvz -C data
 ```
-
 ### References
 * Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus, 
   "[End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)",
