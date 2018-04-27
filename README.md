@@ -22,28 +22,28 @@ follows:
 
 == ============================================= ===================
 #   Task                                         Class name
-== ============================================= ===================
- 1  Basic factoid QA with single supporting fact WhereIsActor
- 2  Factoid QA with two supporting facts         WhereIsObject
- 3  Factoid QA with three supporting facts       WhereWasObject
- 4  Two argument relations: subject vs. object   IsDir
- 5  Three argument relations                     WhoWhatGave
- 6  Yes/No questions                             IsActorThere
- 7  Counting                                     Counting
- 8  Lists/Sets                                   Listing
- 9  Simple Negation                              Negation
-10  Indefinite Knowledge                         Indefinite
-11  Basic coreference                            BasicCoreference
-12  Conjunction                                  Conjunction
-13  Compound coreference                         CompoundCoreference
-14  Time manipulation                            Time
-15  Basic deduction                              Deduction
-16  Basic induction                              Induction
-17  Positional reasoning                         PositionalReasoning
-18  Reasoning about size                         Size
-19  Path finding                                 PathFinding
-20  Reasoning about agent's motivation           Motivations
-== ============================================= ===================
+== ============================================= |===================
+ 1  Basic factoid QA with single supporting fact |WhereIsActor
+ 2  Factoid QA with two supporting facts         |WhereIsObject
+ 3  Factoid QA with three supporting facts       |WhereWasObject
+ 4  Two argument relations: subject vs. object   |IsDir
+ 5  Three argument relations                     |WhoWhatGave
+ 6  Yes/No questions                             |IsActorThere
+ 7  Counting                                     |Counting
+ 8  Lists/Sets                                   |Listing
+ 9  Simple Negation                              |Negation
+10  Indefinite Knowledge                         |Indefinite
+11  Basic coreference                            |BasicCoreference
+12  Conjunction                                  |Conjunction
+13  Compound coreference                         |CompoundCoreference
+14  Time manipulation                            |Time
+15  Basic deduction                              |Deduction
+16  Basic induction                              |Induction
+17  Positional reasoning                         |PositionalReasoning
+18  Reasoning about size                         |Size
+19  Path finding                                 |PathFinding
+20  Reasoning about agent's motivation           |Motivations
+== ============================================= |===================
 
 ## OVERVIEW
 
