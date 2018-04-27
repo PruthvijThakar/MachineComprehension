@@ -1,0 +1,7 @@
+Story:
+
+Fred picked up the football there.
+Fred gave the football to Jeff.
+
+Question:
+What did Fred give to Jeff?

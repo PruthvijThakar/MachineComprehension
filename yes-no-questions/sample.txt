@@ -1,0 +1,8 @@
+Story:
+
+Mary got the milk there.
+John moved to the bedroom.
+
+Question:
+
+Is John in the kitchen?

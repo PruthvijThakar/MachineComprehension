@@ -1,0 +1,1 @@
+{1: '.', 2: '?', 3: 'The', 4: 'What', 5: 'bathroom', 6: 'bedroom', 7: 'east', 8: 'garden', 9: 'hallway', 10: 'is', 11: 'kitchen', 12: 'north', 13: 'of', 14: 'office', 15: 'south', 16: 'the', 17: 'west'}

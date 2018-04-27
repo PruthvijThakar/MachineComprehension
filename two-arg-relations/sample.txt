@@ -1,0 +1,8 @@
+Story:
+
+The garden is west of the hallway.
+The garden is east of the kitchen.
+
+Question:
+
+What is the kitchen west of?
