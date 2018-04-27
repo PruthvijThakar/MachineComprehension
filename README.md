@@ -14,6 +14,14 @@ Where is John?
 #### Answer:
 kitchen (one with max. probability)
 
+## OVERVIEW
+
+*	Neural Network model with external memory.
+*	Reads the memory with soft attention.
+*	It accesses memory multiple times; each step being called a hop.
+*	Uses back propagation to update the model.
+
+
 ## Tasks
 -----
 
@@ -23,7 +31,7 @@ follows:
 | Task                                             | Class name          |
 |--------------------------------------------------|---------------------|
 | 1  Basic factoid QA with single supporting fact  | WhereIsActor        |
-| 2                                                |   WhereIsObject     |
+| 2  Factoid QA with two supporting facts          |   WhereIsObject     |
 | 3  Factoid QA with three supporting facts        | WhereWasObject      |
 | 4  Two argument relations: subject vs. object    | IsDir               |
 | 5  Three argument relations                      | WhoWhatGave         |
@@ -42,17 +50,6 @@ follows:
 | 18  Reasoning about size                         | Size                |
 | 19  Path finding                                 | PathFinding         |
 | 20  Reasoning about agent's motivation           | Motivations         |
-
-
-
-
-
-## OVERVIEW
-
-*	Neural Network model with external memory.
-*	Reads the memory with soft attention.
-*	It accesses memory multiple times; each step being called a hop.
-*	Uses back propagation to update the model.
 
 
 ## Requirements
