@@ -1,0 +1,47 @@
+<html>
+<head>
+  <title>
+    Final Project Cognitive Computing
+  </title>
+</head>
+<body>
+
+<br>
+<br>
+<br>
+<br>
+<form action="/predictanswer" method=post>
+
+<br>
+<br>
+
+
+Story: <textarea rows="10" cols="100" name="story">
+Enter Story here...</textarea>
+<br>
+<br>
+Question:  <input type="text" name="question" required/>
+<input type="hidden" name="direc" value="{{direc}}"/>
+<input type="submit">
+</form>
+
+Here is the list of all the allowed words for this model:<br><br><br>
+{% for key in allowedwords %}
+{{key}} &nbsp;&nbsp;
+{% endfor %}
+
+<br>
+<br>
+<br>
+
+
+Here is a sample of question and Answer
+<br>
+<br>
+<br>
+<br>
+{{sample}}
+
+
+</body>
+</html>
