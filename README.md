@@ -20,6 +20,11 @@ kitchen (one with max. probability)
 The tasks in ``babi/tasks`` correspond to those from the original dataset as
 follows:
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 |   Task |                                        | Class name |
 | -------- |----------- |
