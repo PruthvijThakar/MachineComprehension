@@ -16,10 +16,10 @@ kitchen (one with max. probability)
 
 ## OVERVIEW
 
-●	Neural Network model with external memory.
-●	Reads the memory with soft attention.
-●	It accesses memory multiple times; each step being called a hop.
-●	Uses back propagation to update the model.
+*	Neural Network model with external memory.
+*	Reads the memory with soft attention.
+*	It accesses memory multiple times; each step being called a hop.
+*	Uses back propagation to update the model.
 
 
 
